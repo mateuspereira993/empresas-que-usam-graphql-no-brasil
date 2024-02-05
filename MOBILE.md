@@ -2,6 +2,10 @@
 
 > OBS: Antes de realizar sua contribuição dê uma olhada nas [regras](https://github.com/graphql-brasil/empresas-que-usam-graphql-no-brasil/blob/master/CONTRIBUTING.md)
 
+[Lojas Silva](https://www.lojassilva.com.br/))
+Rio de Janeiro, RJ
+React-Native, Redux, Next, Graphql, Apollo
+
 [Ao Cubo](https://aocubo.com)
 São Paulo, SP
 React-Native, Redux, Next, Graphql, Apollo
